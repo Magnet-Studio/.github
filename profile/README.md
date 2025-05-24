@@ -2,7 +2,7 @@
 - [Mario Cortés Herrera](https://github.com/SimulationOfMario)
 - [Javier Molina Colmenero](https://github.com/CreatorBeastGD)
 - [Nicoló Melley](https://github.com/Mel-Nicolo)
-- [Andrés Ruiz Sánchez](https://github.com/andresruiiz)
+- [Andrés Ruiz Sánchez](https://github.com/andresruizs)
 <div align="left">
   <img src="https://avatars.githubusercontent.com/u/124881638" width="150">
   <img src="https://avatars.githubusercontent.com/u/124881215" width="150">
