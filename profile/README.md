@@ -32,4 +32,7 @@
     <img src="https://raw.githubusercontent.com/Magnet-Studio/PokeRoll/refs/heads/main/public/favicon.ico" width="100"/>
     <a href="https://pokeroll.es"><img src="https://github.com/Magnet-Studio/PokeRoll/blob/main/src/images/logo.png" width="300" alt="PokéRoll" title="PokéRoll"/></a> 
     <img src="https://raw.githubusercontent.com/Magnet-Studio/PokeRoll/refs/heads/main/public/favicon.ico" width="100"/>
+    <h3>
+        Click the logo or visit <i>pokeroll.es</i>
+    </h3>
 </div>
